@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.exe
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\bin\Debug\netcoreapp3.1\HOCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStrings\HOCounter\obj\Debug\netcoreapp3.1\HOCounter.genruntimeconfig.cache
